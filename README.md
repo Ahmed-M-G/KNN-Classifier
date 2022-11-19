@@ -1,3 +1,4 @@
 # KNN-Classifier
  Using KNN-Classifier for two different tasks
-  - First Task: Create a random dataset and apply the concept of KNN classification to it
+  - The first task: Generate a random dataset and apply the concept of KNN classification to it
+  - The second task: Using the digit dataset and applying the concept of KNN classification to it
