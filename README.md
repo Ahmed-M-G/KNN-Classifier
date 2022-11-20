@@ -1,5 +1,6 @@
 # KNN-Classifier
  **Using KNN-Classifier for two different tasks**
+ 
   - ## **_Task_1_**: Generate a random dataset and apply the concept of KNN classification to it.
     ![image](https://user-images.githubusercontent.com/68587770/202856040-9f6b2748-62e8-4621-af5a-b2a81baa78c9.png)
 
